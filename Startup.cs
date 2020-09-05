@@ -17,6 +17,8 @@ namespace TestCDCIV2
         {
             //test config
                         Configuration = configuration;
+
+
         }
 
         public IConfiguration Configuration { get; }
