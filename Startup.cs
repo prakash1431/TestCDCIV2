@@ -16,8 +16,7 @@ namespace TestCDCIV2
         public Startup(IConfiguration configuration)
         {
             //test config
-
-            Configuration = configuration;
+                        Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
