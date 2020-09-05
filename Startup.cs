@@ -19,7 +19,7 @@ namespace TestCDCIV2
                         Configuration = configuration;
 
 
-        
+        }
 
         public IConfiguration Configuration { get; }
 
